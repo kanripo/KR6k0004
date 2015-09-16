@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五分比丘尼戒本
+#+DATE: 2015-08-30 20:39:19.572632
+#+PROPERTY: JUAN 0

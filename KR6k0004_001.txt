@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:19.342246
+#+DATE: 2015-08-30 20:39:20.856935
 #+TITLE: 五分比丘尼戒本
 #+PROPERTY: CBETA_ID T22n1423
 #+PROPERTY: ID KR6k0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1423
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0004_T_000-0206b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6k0004_T_001-0206b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1423[cf.No.1421]¶
-
- 《五分比丘尼戒本》¶
+No. 1423 [cf. No. 1421]¶
+《五分比丘尼戒本》¶
 ¶
 梁建初寺沙門釋明徽集¶
 
@@ -1140,7 +1139,7 @@ No.1423[cf.No.1421]¶
 不為象鼻著下衣應當學。
 
 不如圓¶
-㮈著下衣應當學。
+[木*奈]著下衣應當學。
 
 不細襵著下衣應當學。¶
 
